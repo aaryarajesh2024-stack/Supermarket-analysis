@@ -5,6 +5,7 @@ This project focuses on analyzing real-world supermarket sales data to extract m
 Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and visualized to identify sales trends, top-performing product lines, branch performance, customer spending patterns, and statistical relationships.
 
 
+
 🎯 Project Objectives
 
 *Clean and preprocess raw data
@@ -22,7 +23,9 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 *Generate actionable business insights
 
 
+
 📊 Key Analyses Conducted
+
 
 
 ✔ Sales Performance
@@ -34,6 +37,7 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 *Product category analysis
 
 
+
 ✔ Customer Behavior
 
 *Customer type distribution
@@ -41,6 +45,7 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 *Spending pattern analysis
 
 *Demographic comparisons
+
 
 
 ✔ Advanced Data Visualization
@@ -56,6 +61,7 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 🔥 Correlation Heatmaps
 
 
+
 🛠️ Technologies Used
 
 
@@ -64,6 +70,7 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 * Matplotlib
   
 * Seaborn
+
 
 
 🧠 Skills Demonstrated
@@ -81,6 +88,7 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 * Correlation Analysis
 
 
+
 📈 Key Insights
 
 *Sales trends and performance patterns
@@ -92,6 +100,7 @@ Using Pandas, Matplotlib, and Seaborn, the dataset was cleaned, processed, and v
 *Statistical relationships in sales data
 
 *Revenue contribution analysis
+
 
 
 This project marks another important milestone in my Data Science journey, helping me strengthen practical skills in real-world data analysis, visualization, and business problem-solving.
